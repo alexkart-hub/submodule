@@ -1,0 +1,2 @@
+<?php
+// submodule/index.php
